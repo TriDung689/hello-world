@@ -1,2 +1,7 @@
 # hello-world
-My firsrt respository
+
+Hi. Human!!
+
+This is my first time to make a repository in GitHub.
+
+Thankyou!
